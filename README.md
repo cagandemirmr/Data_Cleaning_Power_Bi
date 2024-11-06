@@ -12,6 +12,7 @@ I cleaned data by delimiter to make it more simple.
 
 
 Filled Blank rows with approximate values
+
 ![image](https://github.com/user-attachments/assets/2af835e3-0305-43d9-abe7-89e65870c442)
 ![image](https://github.com/user-attachments/assets/65cf2cd2-b445-418c-a455-67120aa007d6)
 
