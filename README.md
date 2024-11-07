@@ -1,4 +1,4 @@
-# Data_Cleaning_Power_BI
+# Data_Job_Survey_Power_BI
 
 This project involves a comprehensive cleaning and analysis of a dataset, using Microsoft Power BI to identify trends, key performance indicators (KPIs), and demographic insights. The primary focus was to preprocess the data for analysis and create various visualizations to uncover insights about career switching, salary distribution, preferred programming languages, and other aspects of the dataset.
 
