@@ -68,6 +68,7 @@ In the last step i edit board.
 ![image](https://github.com/user-attachments/assets/42353a47-5ca3-489f-aed0-b067e847f421)
 
 
-
+Lastly, i recognize that most of the voters who take data ia switching career and their happiness rate is on the middle.
+And most of voters, prefer python maybe because of easy usage.
 
 
